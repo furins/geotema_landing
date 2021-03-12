@@ -1,0 +1,29 @@
+//
+// variables.scss
+//
+
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700');
+
+// Color variables
+$white: #ffffff;
+$black: #000000;
+
+$custom: #002fff;
+
+$primary: #67a8e4;
+$success: #12925b;
+$info: #3bc3e9;
+$warning: #ffbb44;
+$danger: #ea553d;
+$dark: #343a40;
+$muted: #777777;
+$light: #f6f6f6;
+$body-color: #212529;
+
+// Body Background
+$body-bg: #f5f5f5;
+
+// Text Gradient
+$bg-gradient: linear-gradient(45deg, #2d42fb 0%, #408afa 100%);
+
+$font-family-base: 'Poppins', sans-serif;

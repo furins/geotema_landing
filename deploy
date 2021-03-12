@@ -1,0 +1,2 @@
+echo trasmetto il sito sul server
+rsync -rv --delete frontend/* opalstack:~/apps/geotema_landing/ 
